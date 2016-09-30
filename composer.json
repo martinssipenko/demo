@@ -1,0 +1,9 @@
+{
+
+    "name": "lu/lu",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "silex/silex": "~2.0"
+    }
+}
